@@ -1,0 +1,11 @@
+C:\DevC\Aula_poo2_AgendaTelefonica\bin\Debug\Aula_poo2_AgendaTelefonica.exe.config
+C:\DevC\Aula_poo2_AgendaTelefonica\bin\Debug\Aula_poo2_AgendaTelefonica.exe
+C:\DevC\Aula_poo2_AgendaTelefonica\bin\Debug\Aula_poo2_AgendaTelefonica.pdb
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.csproj.AssemblyReference.cache
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.Form1.resources
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.Properties.Resources.resources
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.csproj.GenerateResource.cache
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.exe
+C:\DevC\Aula_poo2_AgendaTelefonica\obj\Debug\Aula_poo2_AgendaTelefonica.pdb
